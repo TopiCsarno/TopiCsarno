@@ -15,6 +15,9 @@ Previously worked on healthcare ML and edge deployment.
 
 ## Projects
 
+- 🗣️ [yapcap](https://github.com/TopiCsarno/yapcap)  
+  COSMIC panel applet showing local usage limits for Codex, Claude Code, and Cursor.
+
 - 🧠 [nd-cnn-from-scratch](https://github.com/TopiCsarno/nd-cnn-from-scratch)  
   From-scratch N-dimensional CNN, pooling, and backpropagation in Python.
 
@@ -26,9 +29,6 @@ Previously worked on healthcare ML and edge deployment.
 
 - 🔌 [USRT](https://github.com/TopiCsarno/USRT)  
   UART peripheral in Verilog with an APB bus interface and simulation assets.
-
-- 🗣️ [yapcap](https://github.com/TopiCsarno/yapcap)  
-  COSMIC panel applet showing local usage limits for Codex, Claude Code, and Cursor.
 
 - 🧮 [numper](https://github.com/TopiCsarno/numper)  
   Small expression calculator in C with infix parsing and postfix evaluation.
